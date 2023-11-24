@@ -9,7 +9,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
-    "preview": "astro preview",
+    "preview": "HOST=0.0.0.0 astro preview --host",
     "astro": "astro"
   },
   "dependencies": {
