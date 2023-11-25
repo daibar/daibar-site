@@ -1,13 +1,13 @@
 ---
-import {Image} from 'astro:assets'
+import { Image } from "astro:assets";
 ---
 
-<header class="flex justify-between items-center px-24 pt-12 pb-6 max-sm:px-5 max-sm:py-10 max-w-7xl w-full mx-auto">
-    <a href="/" class="flex items-center">
+<header class="flex justify-between items-center px-24 pt-0 max-sm:px-5 max-sm:pt-5 sm:pt-10 max-w-7xl w-full mx-auto">
+    <a href="/" class="flex items-center mr-8">
         <Image
         src="/icons/aibar-icon.svg"
-        width={100}
-        height={70}
+        width={60}
+        height={30}
         alt="aibar-icon"
         class="rounded-2xl aspect-thumbnail object-cover"
         format="webp"
@@ -24,4 +24,5 @@ import {Image} from 'astro:assets'
             <a href="/projects" class="text-teal-900 font-bold">Projects</a>
         </li>
     </ul>
+  </div>
 </header>
