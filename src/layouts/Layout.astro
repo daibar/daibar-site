@@ -1,5 +1,5 @@
 ---
-import Header from '../components/Header.astro'
+import NavBar from '../components/NavBar.astro'
 import Footer from '../components/Footer.astro'
 interface Props {
 	title: string;
@@ -21,7 +21,7 @@ const { title = 'Rythm Nation', description = 'A community of music producers an
 		<title>{title}</title>
 	</head>
 	<body class="min--screen grid grid-rows=[auto,1fr,auto]">
-		<Header/>
+		<NavBar/>
 		<slot />
 		<Footer/>
 	</body>
