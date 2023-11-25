@@ -1,4 +1,4 @@
-&nbsp;nbsp;
+---
 layout: ../layouts/AboutLayout.astro
 ---
 Hey there! 👋
