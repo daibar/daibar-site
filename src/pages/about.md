@@ -9,4 +9,4 @@ I'm Danny Aibar, a passionate software engineer and web developer with a backgro
 
 
 
-I'm a strong believer in work that pushes technology forward for social justice, climate change mitigation and digital privacy.  What we work on matters and I believe where and the people we work with do too. 😃
+I'm a strong believer in work that pushes technology forward for social justice, climate change mitigation and digital privacy.  What we work on matters and I believe where and the people we work with do too. 😃🤙
