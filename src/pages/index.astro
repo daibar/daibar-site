@@ -2,10 +2,14 @@
 import Layout from "../layouts/Layout.astro";
 import Main from "../components/Main.astro";
 import H1 from "../components/H1.astro";
+import { Image } from "astro:assets";
 ---
 
 <Layout title="Danny Aibar">
   <Main>
-    <H1 text="Rythm Nation Blog"/>
+    <H1 text="Hi I'm Danny!" />
+    <div class="flex intial justify-center">
+      <Image src="/images/index.png" height={680} width={680} alt="index" />
+    </div>
   </Main>
 </Layout>
