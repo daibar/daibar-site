@@ -10,7 +10,9 @@ const { frontmatter } = Astro.props;
 <Layout title="Danny Aibar | About">
   <Main>
     <H1 text="About Me!" />
+    <div class="flex">
     <Image src="/images/about.jpg" width={500} height={500} alt="about" />
     <slot />
+    </div>
   </Main>
 </Layout>
