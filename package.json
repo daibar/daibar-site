@@ -2,21 +2,23 @@
 	"engines": {
 		"node": "18.14.1"
 	},
-  "name": "daibar-site",
-  "type": "module",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro check && astro build",
-    "preview": "HOST=0.0.0.0 astro preview --host",
-    "astro": "astro"
-  },
-  "dependencies": {
-    "@astrojs/check": "^0.3.1",
-    "@astrojs/tailwind": "^5.0.2",
-    "astro": "^3.6.0",
-    "tailwindcss": "^3.3.5",
-    "typescript": "^5.3.2"
-  }
+	"name": "daibar-site",
+	"type": "module",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "astro dev",
+		"start": "astro dev",
+		"build": "astro check && astro build",
+		"preview": "HOST=0.0.0.0 astro preview --host",
+		"astro": "astro"
+	},
+	"dependencies": {
+		"@astrojs/check": "^0.3.1",
+		"@astrojs/tailwind": "^5.0.2",
+		"@astrojs/vue": "^3.0.4",
+		"astro": "^3.6.0",
+		"tailwindcss": "^3.3.5",
+		"typescript": "^5.3.2",
+		"vue": "^3.3.9"
+	}
 }
