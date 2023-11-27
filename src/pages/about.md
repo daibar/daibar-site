@@ -8,3 +8,5 @@ I'm Danny Aibar, a passionate software engineer and web developer with a backgro
 <br/>
 <br/>
 I'm a strong believer in work that pushes technology forward for social justice, climate change mitigation and digital privacy.  What we work on matters and the people we work with do too. 😃🤙
+
+Speaking of technology, these days I generally work in Typescript backend/frontend (VueJS), Ruby on Rails and SQL in my current role but have worked in the .NET ecosystem and even noSQL databases such as MongoDB extensively previously.  I'm also constantly interested in learning new frameworks and different programming languages.  Feel free to check out my projects page to get a better idea of what I like to play with in my free time!
